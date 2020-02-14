@@ -2,12 +2,12 @@
 
 
 
-{"number":"0","name":"Nagham FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im01.png","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"},
- {"number":"1","name":"Radio 9090","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im02.png","streamUrl":"http://9090streaming.mobtada.com/9090FMEGYPT","yourmuzeId":"0","state":"1"},
+{"number":"0","name":"Nagham FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im01.png","streamUrl":"http://ahmsamir.radioca.st/stream","yourmuzeId":"0","state":"1"},
+ {"number":"1","name":"Radio 9090","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im02.png","streamUrl":"http://9090video.mobtada.com:1935/live/9090ONLINE/chunklist_w282683786.m3u8","yourmuzeId":"0","state":"1"},
  {"number":"2","name":"Radio Masr","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im03.png","streamUrl":"http://live.radiomasr.net:8060/RADIOMASR","yourmuzeId":"0","state":"1"},
  {"number":"3","name":"Sound of Sakia Radio","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im04.png","streamUrl":"http://streamsfortheworld.com:8300/rs_mp3_32","yourmuzeId":"0","state":"1"},
  {"number":"4","name":"El Gouna Radio","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im05.png","streamUrl":"http://82.201.132.237:8000","yourmuzeId":"0","state":"1"},
- {"number":"5","name":"Radio Masr El-Gdida","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im06.png","streamUrl":"http://streaming.radio.co:80/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
+ {"number":"5","name":"Mix FM 87.8","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/Mix_FM_87.8.jpg","streamUrl":"http://196.219.52.61:8000/;;","yourmuzeId":"0","state":"1"},
  {"number":"6","name":"Radio Hawana","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im07.png","streamUrl":"http://streaming.radionomy.com/Radio-Hawana","yourmuzeId":"0","state":"1"},
  {"number":"7","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im08.png","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"},
  {"number":"8","name":"Nile FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im09.png","streamUrl":"http://streaming.radionomy.com/BanhaCityHits","yourmuzeId":"0","state":"1"},
@@ -43,8 +43,9 @@
  {"number":"38","name":"Alex Hits Rock","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im39.png","streamUrl":"http://target-ad-1.cdn.dvmr.fr/ouifm3.aac","yourmuzeId":"0","state":"1"},
  {"number":"39","name":"Alex Hits Shaabi","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im40.png","streamUrl":"http://s7.voscast.com:7888;","yourmuzeId":"0","state":"1"},
  {"number":"40","name":"Radio Masr El-Gdida","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/RadioMasrEl-Gdida.png","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
+ {"number":"41","name":"lbi Zaman","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/lbi-zaman.jpg","streamUrl":"http://212.83.138.48:8165/;stream.mp3","yourmuzeId":"0","state":"1"},
 
- {"number":"41","name":"Mega FM 92.7","description":null,"logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/megafm.png","streamUrl":"http://88.99.121.141:8220/megamysource","yourmuzeId":"0","state":"1"}, 
- {"number":"42","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"}
+ {"number":"42","name":"Mega FM 92.7","description":null,"logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/megafm.png","streamUrl":"http://88.99.121.141:8220/megamysource","yourmuzeId":"0","state":"1"}, 
+ {"number":"43","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"}
 
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
