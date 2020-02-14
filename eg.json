@@ -45,6 +45,6 @@
  {"number":"40","name":"Radio Masr El-Gdida","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/RadioMasrEl-Gdida.png","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
 
  {"number":"41","name":"Mega FM 92.7","description":null,"logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/megafm.png","streamUrl":"http://88.99.121.141:8220/megamysource","yourmuzeId":"0","state":"1"}, 
- {"number":"42","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"0"}
+ {"number":"42","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"}
 
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
