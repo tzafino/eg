@@ -42,7 +42,9 @@
  {"number":"37","name":"Alex Hits Quran","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im38.png","streamUrl":"http://66.45.232.131:9994","yourmuzeId":"0","state":"1"},
  {"number":"38","name":"Alex Hits Rock","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im39.png","streamUrl":"http://target-ad-1.cdn.dvmr.fr/ouifm3.aac","yourmuzeId":"0","state":"1"},
  {"number":"39","name":"Alex Hits Shaabi","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im40.png","streamUrl":"http://88.99.121.141:8220/megamysource","yourmuzeId":"0","state":"1"},
- {"number":"40","name":"Mega FM 92.7","description":null,"logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/megafm.png","streamUrl":"http:\/\/soundofsakia.serverroom.us:4896\/live","yourmuzeId":"0","state":"1"}, 
- {"number":"41","name":"Radio Al Hayat FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/im42.png","streamUrl":"http:\/\/live.alhayafm.com:8000\/;s.mp3","yourmuzeId":"0","state":"0"}
+ {"number":"40","name":"Radio Masr El-Gdida","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/RadioMasrEl-Gdida.png","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
+
+ {"number":"41","name":"Mega FM 92.7","description":null,"logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/megafm.png","streamUrl":"http:\/\/soundofsakia.serverroom.us:4896\/live","yourmuzeId":"0","state":"1"}, 
+ {"number":"42","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"0"}
 
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
