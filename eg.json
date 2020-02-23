@@ -44,8 +44,46 @@
  {"number":"39","name":"Shaaby FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/FM_Shaaby.jpg","streamUrl":"http://178.32.62.154:9010/stream/;","yourmuzeId":"0","state":"1"},
  {"number":"40","name":"Radio Masr El-Gdida","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/RadioMasrEl-Gdida.png","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
  {"number":"41","name":"lbi Zaman","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/lbi-zaman.jpg","streamUrl":"http://212.83.138.48:8165/;stream.mp3","yourmuzeId":"0","state":"1"},
-
  {"number":"42","name":"Mega FM 92.7","description":null,"logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/megafm.png","streamUrl":"http://88.99.121.141:8220/megamysource","yourmuzeId":"0","state":"1"}, 
- {"number":"43","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"}
+ {"number":"43","name":"Nogoum FM","description":"","logo":"/https://raw.githubusercontent.com/dadodiapps/eg/master/NogoumFM.jpg","streamUrl":"http://ice31.securenetsystems.net/NOGOUM","yourmuzeId":"0","state":"1"},
 
+ 
+ 
+
+{"number":"44","name":"BBC Arabic","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/bbc-arabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"}, 	
+{"number":"45","name":"BBC English","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/BBC_News_2019.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup","yourmuzeId":"0","state":"1"}, 	
+{"number":"46","name":"On Sport TV","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/onsport.png","streamUrl":"http://95.170.215.107/hls/m3u8/ON-Sport.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"47","name":"UFM KSA","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/s136681q.webp","streamUrl":"http://104.200.150.186:8000/","yourmuzeId":"0","state":"1"},	
+{"number":"48","name":"Sputnik Arabic","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/sputnik.png","streamUrl":"http://icecast-ruvr.cdnvideo.ru/rian.voicearb","yourmuzeId":"0","state":"1"},
+{"number":"49","name":"اذاعة القران الكريم من القاهرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/0.png","streamUrl":"http://vps775737.ovh.net:8000/q.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"50","name":"الشرق الاوسط من كندا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/2hyuzpf5fewz.jpg","streamUrl":"http://s2.voscast.com:7386/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 	
+{"number":"51","name":"مونت كارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/246x0w.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"}, 	
+{"number":"52","name":"إذاعة الفتاوى","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/300.png.jpg","streamUrl":"http://live.mp3quran.net:8014/","yourmuzeId":"0","state":"1"}, 	
+{"number":"53","name":"اذاعة السنة النبوية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/302.png.jpg","streamUrl":"http://radio2.tarat.com:9962/","yourmuzeId":"0","state":"1"}, 	
+{"number":"54","name":"تلاوات خاشعة 1","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/401.png","streamUrl":"http://islam2day.tv:3000/","yourmuzeId":"0","state":"1"}, 	
+{"number":"55","name":"تلاوات خاشعة 2","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/402.png","streamUrl":"http://live.mp3quran.net:9992/","yourmuzeId":"0","state":"1"}, 	
+{"number":"56","name":"اناشيد دينية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/403.png","streamUrl":"http://islam2day.tv:8000/","yourmuzeId":"0","state":"1"}, 	
+{"number":"57","name":"FM العربية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Al-Arabiya-FM.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/chunklist_w294458579.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"58","name":"راديو الجزيرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Al-jazeera.jpg","streamUrl":"http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"59","name":"قناة المجد العلمية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Almajd_Alelmeah.jpg","streamUrl":"http://radio3.tarat.com:9316/","yourmuzeId":"0","state":"1"}, 	
+{"number":"60","name":"الشباب والرياضة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/chababwariyada.jpg","streamUrl":"https://securestreams2.autopo.st:1034/shbaby.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"61","name":"كويت اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/design_03.png","streamUrl":"https://kwmedia.hibridmedia.com/kwmedia/kwfm/chunks.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"62","name":"ادعية واذكار","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/doaa.jpg","streamUrl":"http://radio10.tarat.com:9358/","yourmuzeId":"0","state":"1"}, 	
+{"number":"63","name":"برنامج لقاء الايمان","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/leqaa-aleman.png","streamUrl":"http://radio2.tarat.com:9980/","yourmuzeId":"0","state":"1"}, 	
+{"number":"64","name":"Fm ماسبيرو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/maspiro.jpg","streamUrl":"https://securestreams2.autopo.st:1034/maspy.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"65","name":"الاخبار العالمية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/news.png","streamUrl":"http://shoutcast.wrn.org:8008/","yourmuzeId":"0","state":"1"}, 	
+{"number":"66","name":"صوت العرب","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_3.jpg","streamUrl":"https://securestreams2.autopo.st:1034/sooty.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"67","name":"البرنامج العام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_4.jpg","streamUrl":"https://securestreams2.autopo.st:1034/bernamegy.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"68","name":"الشرق الاوسط","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_10.jpg","streamUrl":"https://securestreams2.autopo.st:1034/sharky.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"69","name":"محمد رفعت","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/rrfaat.jpg","streamUrl":"http://radio10.tarat.com:9328/;","yourmuzeId":"0","state":"1"}, 	
+{"number":"70","name":"سكاي نيوز","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/unnamed.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"}, 	
+{"number":"71","name":"اذكار الصباح","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/xxx.jpg","streamUrl":"http://radio2.tarat.com:9300/;","yourmuzeId":"0","state":"1"}, 	
+{"number":"72","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
