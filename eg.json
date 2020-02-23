@@ -5,7 +5,7 @@
 {"number":"2","name":"القرآن الكريم من القاهرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/qurancairo.jpg","streamUrl":"http://radio3.tarat.com:9994","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"القرآن الكريم من القاهرة 2 احتياطية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/qurancairo.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"4","name":"اذاعة القران الكريم السعودية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/saoudi.jpg","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},
-{"number":"5","name":"On Sport FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/OnSport fm.jpg","streamUrl":"http://95.170.215.107/hls/m3u8/ON-Sport.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"On Sport FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/onsport.png","streamUrl":"http://95.170.215.107/hls/m3u8/ON-Sport.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"البرنامج العام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/mrnamaghaam.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"7","name":"الشرق الاوسط","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/sharqawsat.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"8","name":"الشباب والرياضة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/shababwariyada.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
@@ -49,9 +49,28 @@
 {"number":"46","name":"اسلام صبحي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/sobhi.jpg","streamUrl":"https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3","yourmuzeId":"0","state":"1"},
 {"number":"47","name":"ماهر المعيقل","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/m3ay9li.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"48","name":"ياسر الدوسري","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/dawsari.jpg","streamUrl":"http://quraan.us:9884/;*.mp3","yourmuzeId":"0","state":"1"},
-{"number":"49","name":"ناصر القطامي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/elqatami.jpg","streamUrl":"http://server2.quraan.us:9886/;*.mp3","yourmuzeId":"0","state":"1"}
-
-
+{"number":"49","name":"ناصر القطامي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/elqatami.jpg","streamUrl":"http://server2.quraan.us:9886/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"50","name":"سبوتنيك عربي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/sputnik.png","streamUrl":"http://icecast-ruvr.cdnvideo.ru/rian.voicearb","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"مونت كارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/246x0w.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"}, 	
+{"number":"52","name":"إذاعة الفتاوى","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/300.png.jpg","streamUrl":"http://live.mp3quran.net:8014/","yourmuzeId":"0","state":"1"}, 	
+{"number":"53","name":"اذاعة السنة النبوية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/302.png.jpg","streamUrl":"http://radio2.tarat.com:9962/","yourmuzeId":"0","state":"1"}, 	
+{"number":"54","name":"تلاوات خاشعة 1","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/401.png","streamUrl":"http://islam2day.tv:3000/","yourmuzeId":"0","state":"1"}, 	
+{"number":"55","name":"تلاوات خاشعة 2","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/402.png","streamUrl":"http://live.mp3quran.net:9992/","yourmuzeId":"0","state":"1"}, 	
+{"number":"56","name":"اناشيد دينية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/403.png","streamUrl":"http://islam2day.tv:8000/","yourmuzeId":"0","state":"1"}, 	
+{"number":"57","name":"FM العربية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Al-Arabiya-FM.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/chunklist_w294458579.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"58","name":"راديو الجزيرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Al-jazeera.jpg","streamUrl":"http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"59","name":"قناة المجد العلمية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Almajd_Alelmeah.jpg","streamUrl":"http://radio3.tarat.com:9316/","yourmuzeId":"0","state":"1"}, 	
+{"number":"61","name":"كويت اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/design_03.png","streamUrl":"https://kwmedia.hibridmedia.com/kwmedia/kwfm/chunks.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"62","name":"ادعية واذكار","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/doaa.jpg","streamUrl":"http://radio10.tarat.com:9358/","yourmuzeId":"0","state":"1"}, 	
+{"number":"63","name":"برنامج لقاء الايمان","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/leqaa-aleman.png","streamUrl":"http://radio2.tarat.com:9980/","yourmuzeId":"0","state":"1"}, 	
+{"number":"65","name":"الاخبار العالمية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/news.png","streamUrl":"http://shoutcast.wrn.org:8008/","yourmuzeId":"0","state":"1"}, 	
+{"number":"67","name":"البرنامج العام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_4.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"68","name":"الشرق الاوسط","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_10.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"69","name":"محمد رفعت","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/rrfaat.jpg","streamUrl":"http://radio10.tarat.com:9328/;","yourmuzeId":"0","state":"1"}, 	
+{"number":"70","name":"اذاعة القران الكريم من القاهرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/0.png","streamUrl":"http://vps775737.ovh.net:8000/q.ogg","yourmuzeId":"0","state":"1"}, 	
+{"number":"71","name":"اذكار الصباح","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/xxx.jpg","streamUrl":"http://radio2.tarat.com:9300/;","yourmuzeId":"0","state":"1"}, 	
+{"number":"72","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}
+ 
 
  
  
