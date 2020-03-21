@@ -35,7 +35,7 @@
 {"number":"33","name":"راديو الجونة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radioelgona.png","streamUrl":"http://82.201.132.237:8000/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"34","name":"راديو هيتس 88.2","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radiohits.jpg","streamUrl":"https://audiostreaming.twesto.com/radiohits215","yourmuzeId":"0","state":"1"},
 {"number":"35","name":"راديو مصر 88.7","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radiomesr.jpg","streamUrl":"http://live.radiomasr.net:8060/RADIOMASR?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
-{"number":"36","name":"راديو محطة مصر","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/mahatatmisr.jpg","streamUrl":"http://listen.mahatetmasr.com/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"36","name":"راديو محطة مصر","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/mahatatmisr.jpg","streamUrl":"https://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
 {"number":"28","name":"BBC عربي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/bbcarabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
 {"number":"37","name":"FM العربية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Al-Arabiya-FM.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/chunklist_w294458579.m3u8","yourmuzeId":"0","state":"1"}, 	
 {"number":"38","name":"راديو الجزيرة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Al-jazeera.jpg","streamUrl":"http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8","yourmuzeId":"0","state":"1"}, 	
@@ -70,13 +70,27 @@
 {"number":"67","name":"محمد صديق المنشاوي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/manchawi.jpg","streamUrl":"http://server2.quraan.us:9918/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"68","name":"محمد صديق المنشاوي (المصحف المعلم)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/manchawi.jpg","streamUrl":"http://server2.quraan.us:9308/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"69","name":"اذكار الصباح","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/xxx.jpg","streamUrl":"http://radio2.tarat.com:9300/;","yourmuzeId":"0","state":"1"}, 	
-{"number":"70","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}, 
-
-{"number":"71","name":"البرنامج العام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_4.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"0"}, 	
-{"number":"72","name":"الشرق الاوسط","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_10.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"0"}	
+{"number":"70","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"},
+ 
+ 
+{"number":"71","name":"راديو هواك","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Hawak%20Radio.png","streamUrl":"http://199.192.23.146:9300/stream/","yourmuzeId":"0","state":"1"},
+{"number":"72","name":"Arab Mix","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Arab%20Mix.png","streamUrl":"http://node-09.zeno.fm/na3vpvn10qruv?rj-ttl=5&rj-tok=AAABcPqypj4AFNPelEO2PNA9tQ","yourmuzeId":"0","state":"1"}, 
+{"number":"73","name":"صوت الإيمان","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/eman%20live.png","streamUrl":"http://www.emanlive.com:8000/;","yourmuzeId":"0","state":"1"}, 
+{"number":"74","name":"راديو صوتك","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Radio%20Sotak.png","streamUrl":"http://serv02.streamsfortheworld.com:8000/radiosotak_hi","yourmuzeId":"0","state":"1"}, 
+{"number":"75","name":"راديو مصراوي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Radio%20Masrawy.png","streamUrl":"https://9090streaming.mobtada.com/9090FMEGYPT?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"76","name":"راديو شباب","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Radio%20Shabab.png","streamUrl":"http://n05.radiojar.com/a3qsqz9h2ewtv?rj-ttl=5&rj-tok=AAABcPowVncAkWI6ue8A3TjAmA","yourmuzeId":"0","state":"1"}, 
+{"number":"77","name":"Radio Orient","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Radio%20Orient.jpg","streamUrl":"http://stream3.broadcast-associes.com:8405/Radio-Orient","yourmuzeId":"0","state":"1"},
+{"number":"78","name":"Dj Oscar Mas","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/Dj%20Oscar%20Mas.jpg","streamUrl":"http://listen.radionomy.com/djoscarmasr","yourmuzeId":"0","state":"1"},
+ 
+ 
+ 
+ 
+ 
+ 
+{"number":"79","name":"البرنامج العام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_4.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"0"}, 	
+{"number":"80","name":"الشرق الاوسط","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/eg/master/radio_channel_10.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"0"}	
 
  
  
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
-
 
