@@ -87,7 +87,17 @@
 {"number":"80","name":"إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://live.mp3quran.net:9988/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
 {"number":"81","name":"إذاعة الشيخ سعود الشريم","description":"","logo":"/sa3od cherim.jpg","streamUrl":"http://quraan.us:9848/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"82","name":" إذاعة الرقية الشرعية 1","description":"","logo":"/ro9ia.jpg","streamUrl":"http://quraan.us:9798/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"83","name":"إذاعة الرقية الشرعية 2","description":"","logo":"/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}  
+{"number":"83","name":"إذاعة القارئ فارس عباد","description":"","logo":"/yyy.jpg","streamUrl":"http://live.mp3quran.net:9972/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"}  
+{"number":"84","name":"إذاعة الشيخ وديع اليمني","description":"","logo":"/yyy.jpg","streamUrl":"http://server2.quraan.us:9784/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"85","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/yyy.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"86","name":"إذاعة الشيخ عبد الرحمن العوسي","description":"","logo":"/yyy.jpg","streamUrl":"http://quraan.us:9778/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"87","name":"إذاعة الشيخ القحطاني","description":"","logo":"/yyy.jpg","streamUrl":"http://quraan.us:9900/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"88","name":"إذاعة الشيخ سعد الغامدي","description":"","logo":"/yyy.jpg","streamUrl":"http://server2.quraan.us:9854/;*.mp3","yourmuzeId":"0","state":"1"}  
+ 
+ 
+ 
+ 
+ 
  
  
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
