@@ -95,9 +95,9 @@
 {"number":"88","name":"إذاعة الشيخ سعد الغامدي","description":"","logo":"/cheikh el Gamdi.jpg","streamUrl":"http://server2.quraan.us:9854/;*.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"79","name":"إذاعة الشيخ أبو بكر الشاطري","description":"","logo":"/abo bakr al chatiri.jpg","streamUrl":"http://quraan.us:9892/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"80","name":"إذاعة الشيخ خليفة الطنيجي","description":"","logo":"/khalifa tnigi.jpg","streamUrl":"http://server2.quraan.us:9838/;*.mp3","yourmuzeId":"0","state":"1"},
-{"number":"81","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
-{"number":"82","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}  
- 
+{"number":"81","name":"إذاعة الشيخ محمد الطبلاوي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://quraan.us:9882/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"82","name":"إذاعة الشيخ علي الحذيفي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://quraan.us:9844/;*.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"82","name":"إذاعة الشيخ عبد الباري الثبيتي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://server2.quraan.us:9790/;*.mp3","yourmuzeId":"0","state":"1"}   
  
  
  ],"country":{"id":"1","name":"egypt","logo":"../../_upload/_flags/egypt.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
