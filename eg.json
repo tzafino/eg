@@ -92,7 +92,9 @@
 {"number":"85","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/cheikh al jalil.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"86","name":"إذاعة الشيخ عبد الرحمن العوسي","description":"","logo":"/cheikh al 3osi.jpg","streamUrl":"http://quraan.us:9778/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"87","name":"إذاعة الشيخ القحطاني","description":"","logo":"/cheikh el 97tani.jpg","streamUrl":"http://quraan.us:9900/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"88","name":"إذاعة الشيخ سعد الغامدي","description":"","logo":"/cheikh el Gamdi.jpg","streamUrl":"http://server2.quraan.us:9854/;*.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"88","name":"إذاعة الشيخ سعد الغامدي","description":"","logo":"/cheikh el Gamdi.jpg","streamUrl":"http://server2.quraan.us:9854/;*.mp3","yourmuzeId":"0","state":"1"},
+ 
+ 
 {"number":"79","name":"إذاعة الشيخ أبو بكر الشاطري","description":"","logo":"/abo bakr al chatiri.jpg","streamUrl":"http://quraan.us:9892/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"80","name":"إذاعة الشيخ خليفة الطنيجي","description":"","logo":"/khalifa tnigi.jpg","streamUrl":"http://server2.quraan.us:9838/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"81","name":"إذاعة الشيخ محمد الطبلاوي","description":"","logo":"/cheikh tablawi.jpg","streamUrl":"http://quraan.us:9882/;*.mp3","yourmuzeId":"0","state":"1"}, 
