@@ -21,7 +21,7 @@
 {"number":"18","name":"ام كلثوم","description":"","logo":"/omkalthom.jpg","streamUrl":"http://173.249.31.198:8012/;.mp3?_=1","yourmuzeId":"0","state":"1"},
 {"number":"19","name":"راديو بنها - متنوع","description":"","logo":"/radiobanha.jpg","streamUrl":"https://streamingv2.shoutcast.com/BanhaCity","yourmuzeId":"0","state":"1"},
 {"number":"20","name":"راديو بنها طرب - اغاني قديمة","description":"","logo":"/banhatarab.jpg","streamUrl":"https://streamingv2.shoutcast.com/BanhaCityTarab","yourmuzeId":"0","state":"1"},
-{"number":"21","name":"Mix FM مصر 87.8","description":"","logo":"/Mix FM 87.8.png","streamUrl":"http://196.219.52.61:8000/","yourmuzeId":"0","state":"1"},
+{"number":"21","name":"Mix FM مصر 87.8","description":"","logo":"/Mix FM 87.8.png","streamUrl":"http://196.219.52.61:8000/;;","yourmuzeId":"0","state":"1"},
 {"number":"22","name":"مونتي كارلو الدولية","description":"","logo":"/MCD.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
 {"number":"23","name":"سكاي نيوز عربية","description":"","logo":"/skynewsarabic.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},
 {"number":"24","name":"راديو مصر الجديدة","description":"","logo":"/Radio_Masr_El-Gdida.jpg","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
