@@ -22,8 +22,7 @@
 {"number":"19","name":"راديو بنها - متنوع","description":"","logo":"/radiobanha.jpg","streamUrl":"https://streamingv2.shoutcast.com/BanhaCity","yourmuzeId":"0","state":"1"},
 {"number":"20","name":"راديو بنها طرب - اغاني قديمة","description":"","logo":"/banhatarab.jpg","streamUrl":"https://streamingv2.shoutcast.com/BanhaCityTarab","yourmuzeId":"0","state":"1"},
 {"number":"21","name":"Mix FM مصر 87.8","description":"","logo":"/Mix FM 87.8.png","streamUrl":"http://196.219.52.61:8000/;;","yourmuzeId":"0","state":"1"},
-{"number":"22","name":"مونتي كارلو الدولية","description":"","logo":"/MCD.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"23","name":"سكاي نيوز عربية","description":"","logo":"/skynewsarabic.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},
+ 
 {"number":"24","name":"راديو مصر الجديدة","description":"","logo":"/Radio_Masr_El-Gdida.jpg","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
 {"number":"25","name":"شعبي اف ام 95.0","description":"","logo":"/sha3bifm.jpg","streamUrl":"http://178.32.62.154:9010/;","yourmuzeId":"0","state":"1"},
 {"number":"26","name":"نغم FM 105.6","description":"","logo":"/naghamfm.jpg","streamUrl":"https://ahmsamir.radioca.st/stream","yourmuzeId":"0","state":"1"},
@@ -36,10 +35,7 @@
 {"number":"34","name":"راديو هيتس 88.2","description":"","logo":"/radiohits.jpg","streamUrl":"https://audiostreaming.twesto.com/radiohits215","yourmuzeId":"0","state":"1"},
 {"number":"35","name":"راديو مصر 88.7","description":"","logo":"/radiomesr.jpg","streamUrl":"http://live.radiomasr.net:8060/RADIOMASR?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"36","name":"راديو محطة مصر","description":"","logo":"/mahatatmisr.jpg","streamUrl":"https://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
-{"number":"28","name":"BBC عربي","description":"","logo":"/bbcarabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
-{"number":"37","name":"FM العربية","description":"","logo":"/Al-Arabiya-FM.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/chunklist_w294458579.m3u8","yourmuzeId":"0","state":"1"}, 	
-{"number":"38","name":"راديو الجزيرة","description":"","logo":"/Al-jazeera.jpg","streamUrl":"http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8","yourmuzeId":"0","state":"1"}, 	
-{"number":"39","name":"قناة المجد العلمية","description":"","logo":"/Almajd_Alelmeah.jpg","streamUrl":"http://radio3.tarat.com:9316/","yourmuzeId":"0","state":"1"}, 	
+ {"number":"39","name":"قناة المجد العلمية","description":"","logo":"/Almajd_Alelmeah.jpg","streamUrl":"http://radio3.tarat.com:9316/","yourmuzeId":"0","state":"1"}, 	
 {"number":"40","name":"سبوتنيك عربي","description":"","logo":"/sputnik.png","streamUrl":"http://icecast-ruvr.cdnvideo.ru/rian.voicearb","yourmuzeId":"0","state":"1"},
 {"number":"41","name":"الاخبار العالمية","description":"","logo":"/news.png","streamUrl":"http://shoutcast.wrn.org:8008/","yourmuzeId":"0","state":"1"}, 	
 {"number":"42","name":"راديو موجة","description":"","logo":"//radiomoga.png","streamUrl":"http://94.23.62.189:5458/;","yourmuzeId":"0","state":"1"},
@@ -102,7 +98,20 @@
 {"number":"93","name":"إذاعة الشيخ عبد الباري الثبيتي","description":"","logo":"/abd albari tbiti.jpg","streamUrl":"http://server2.quraan.us:9790/;*.mp3","yourmuzeId":"0","state":"1"},   
  
 {"number":"94","name":"إذاعة الشيخ عبدالله بصفر","description":"","logo":"/Abdullah Ibn Ali Basfar.jpg","streamUrl":"http://quraan.us:9846/;*.mp3","yourmuzeId":"0","state":"1"},  
-{"number":"95","name":"maspero fm (إذاعة ماسبيرو)","description":"","logo":"/maspero fm.jpg","streamUrl":"http://phvps.ddns.net:8000/maspy.ogg","yourmuzeId":"0","state":"1"} 
+{"number":"95","name":"maspero fm (إذاعة ماسبيرو)","description":"","logo":"/maspero fm.jpg","streamUrl":"http://phvps.ddns.net:8000/maspy.ogg","yourmuzeId":"0","state":"1"}, 
+
+ 
+{"number":"96","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc arabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
+{"number":"97","name":"AL JAZEERA ENGLISH (قناة الجزيرة)","description":"","logo":"/AL JAZEERA EN.jpg","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},   
+{"number":"98","name":"Radio Monte Carlo Doualiya","description":"","logo":"/monte-calro-doualiya.png","streamUrl":"https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"99","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/sky news arabia.png","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
+{"number":"100","name":"FM العربية","description":"","logo":"/FM العربية.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
+{"number":"101","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Radio Al Jazeera Arabic.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"} 
+   
+ 
+ 
+ 
+ 
  
  
  
