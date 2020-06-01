@@ -22,6 +22,9 @@
 {"number":"19","name":"راديو بنها - متنوع","description":"","logo":"/radiobanha.jpg","streamUrl":"https://streamingv2.shoutcast.com/BanhaCity","yourmuzeId":"0","state":"1"},
 {"number":"20","name":"راديو بنها طرب - اغاني قديمة","description":"","logo":"/banhatarab.jpg","streamUrl":"https://streamingv2.shoutcast.com/BanhaCityTarab","yourmuzeId":"0","state":"1"},
 {"number":"21","name":"Mix FM مصر 87.8","description":"","logo":"/Mix FM 87.8.png","streamUrl":"http://196.219.52.61:8000/;;","yourmuzeId":"0","state":"1"},
+{"number":"22","name":"هنا امدرمان","description":"","logo":"/umdorman.png","streamUrl":"http://87.98.130.255:8108/stream","yourmuzeId":"0","state":"2"},    
+{"number":"23","name":"الرياضية FM 104","description":"","logo":"/SportFM104.png","streamUrl":"http://87.98.130.255:8397/stream","yourmuzeId":"0","state":"1"},    
+{"number":"24","name":"اذاعة الشباب والرياضة","description":"","logo":"/اذاعة الشباب والرياضة.JPG","streamUrl":"http://87.98.130.255:8108/stream","yourmuzeId":"0","state":"2"},   
  
  
 {"number":"24","name":"راديو مصر الجديدة","description":"","logo":"/Radio_Masr_El-Gdida.jpg","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
@@ -177,6 +180,7 @@
 {"number":"468","name":"إذاعة القارئ الشيخ يوسف الشويعي","description":"","logo":"/إذاعة القارئ الشيخ يوسف الشويعي.png","streamUrl":"http://live.mp3quran.net:9770/;","yourmuzeId":"0","state":"1"},
 {"number":"469","name":"إذاعة القارئ الشيخ يوسف بن نوح أحمد","description":"","logo":"/إذاعة القارئ الشيخ يوسف بن نوح أحمد.png","streamUrl":"http://206.72.199.178:9994/listen.pls","yourmuzeId":"0","state":"1"},
 {"number":"470","name":"إذاعة الشيخ زكي داغستاني","description":"","logo":"/إذاعة الشيخ زكي داغستاني.jpg","streamUrl":"http://server2.quraan.us:9792/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"471","name":"اذاعة الخرطوم FM107","description":"","logo":"/khartom.jpg","streamUrl":"http://87.98.130.255:8781/stream","yourmuzeId":"0","state":"2"}
 
 
  
