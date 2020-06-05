@@ -14,7 +14,7 @@
 {"number":"11","name":"البرنامج الموسيقي","description":"","logo":"/music-prog-live.png","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElMouusekey/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"البرنامج الثقافي","description":"","logo":"/ERTU.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ThakafayProg/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"13","name":"البرنامج الاوروبي","description":"","logo":"/ouropie-prog-live.png","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"14","name":"عيش حياتك","description":"","logo":"/3esh7eatk.png","streamUrl":"http://www.hostmyradio.com:8020/","yourmuzeId":"0","state":"2"},
+{"number":"14","name":"عيش حياتك","description":"","logo":"/3esh7eatk.png","streamUrl":"http://www.hostmyradio.com:8020/","yourmuzeId":"0","state":"1"},
 {"number":"15","name":"اغاني التسعينات","description":"","logo":"/90's.png","streamUrl":"http://64.150.176.192:8276/","yourmuzeId":"0","state":"1"},
 {"number":"16","name":"راديو الحياة إف إم","description":"","logo":"/hayatfm.png","streamUrl":"http://live.alhayafm.com:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"17","name":"مصرفون اف ام","description":null,"logo":"/im16.png","streamUrl":"http://s2.voscast.com:8612/","yourmuzeId":"0","state":"1"},
