@@ -37,6 +37,7 @@
 {"number":"35","name":"راديو مصر 88.7","description":"","logo":"/radiomesr.jpg","streamUrl":"http://live.radiomasr.net:8060/RADIOMASR?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"0"},
 {"number":"36","name":"راديو محطة مصر","description":"","logo":"/mahatatmisr.jpg","streamUrl":"https://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
 {"number":"37","name":"Al-Abd Quran","description":"","logo":"/Al-Abd Hob al Nabi.jpg","streamUrl":"http://185.80.220.12:8048/stream","yourmuzeId":"0","state":"1"},
+{"number":"38","name":"Alf lila wlila-Cairo(راديو الف ليلة وليلة)","description":"","logo":"/Alf lila wlila.jpg","streamUrl":"https://streamingv2.shoutcast.com/6060fm","yourmuzeId":"0","state":"1"},
  
  
  {"number":"39","name":"قناة المجد العلمية","description":"","logo":"/Almajd_Alelmeah.jpg","streamUrl":"http://radio3.tarat.com:9316/","yourmuzeId":"0","state":"1"}, 	
