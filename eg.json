@@ -15,7 +15,7 @@
 {"number":"12","name":"البرنامج الثقافي","description":"","logo":"/ERTU.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ThakafayProg/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"13","name":"البرنامج الاوروبي","description":"","logo":"/ouropie-prog-live.png","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"عيش حياتك","description":"","logo":"/3esh7eatk.png","streamUrl":"http://www.hostmyradio.com:8020/","yourmuzeId":"0","state":"1"},
-{"number":"15","name":"اغاني التسعينات","description":"","logo":"/90's.png","streamUrl":"http://64.150.176.192:8276/","yourmuzeId":"0","state":"1"},
+{"number":"15","name":"Nineties FM-اغاني التسعينات","description":"","logo":"/90's.png","streamUrl":"http://64.150.176.192:8276/","yourmuzeId":"0","state":"1"},
 {"number":"16","name":"راديو الحياة إف إم","description":"","logo":"/hayatfm.png","streamUrl":"http://live.alhayafm.com:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"17","name":"مصرفون اف ام","description":null,"logo":"/im16.png","streamUrl":"http://s2.voscast.com:8612/","yourmuzeId":"0","state":"1"},
 {"number":"18","name":"ام كلثوم","description":"","logo":"/omkalthom.jpg","streamUrl":"http://173.249.31.198:8012/;.mp3?_=1","yourmuzeId":"0","state":"0"},
@@ -55,7 +55,9 @@
 {"number":"53","name":"Radio Orient","description":"","logo":"/Radio%20Orient.jpg","streamUrl":"http://stream3.broadcast-associes.com:8405/Radio-Orient","yourmuzeId":"0","state":"1"},
 {"number":"54","name":"Dj Oscar Mas","description":"","logo":"/Dj%20Oscar%20Mas.jpg","streamUrl":"http://listen.radionomy.com/djoscarmasr","yourmuzeId":"0","state":"1"}, 
 {"number":"55","name":"maspero fm (إذاعة ماسبيرو)","description":"","logo":"/maspero fm.jpg","streamUrl":"http://phvps.ddns.net:8000/maspy.ogg","yourmuzeId":"0","state":"1"}, 
-{"number":"55","name":"راديو 6060 إف إم live","description":"","logo":"/راديو 6060.jpg","streamUrl":"https://streamingv2.shoutcast.com/6060fm","yourmuzeId":"0","state":"1"}, 
+{"number":"56","name":"راديو 6060 إف إم live","description":"","logo":"/راديو 6060.jpg","streamUrl":"https://streamingv2.shoutcast.com/6060fm","yourmuzeId":"0","state":"1"}, 
+{"number":"57","name":"M3ak3latool Radio-راديو معاك على طول","description":"","logo":"/M3ak3latool Radio.jpg","streamUrl":"http://www.radioma3ak.com:8000/;stream.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"58","name":"RADIO TRAM","description":"","logo":"/RADIO TRAM.jpg","streamUrl":"https://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"}, 
 
  
  
