@@ -26,7 +26,7 @@
 {"number":"23","name":"Al-Abd Hob al Nabi","description":"","logo":"/Al-Abd Hob al Nabi.jpg","streamUrl":"http://s1.reliastream.com:8098/stream","yourmuzeId":"0","state":"1"}, 
 {"number":"24","name":"راديو مصر الجديدة","description":"","logo":"/Radio_Masr_El-Gdida.jpg","streamUrl":"http://streaming.radio.co/scc13a6b96/listen","yourmuzeId":"0","state":"1"},
 {"number":"25","name":"شعبي اف ام 95.0","description":"","logo":"/sha3bifm.jpg","streamUrl":"http://178.32.62.154:9010/;","yourmuzeId":"0","state":"1"},
-{"number":"26","name":"نغم FM 105.6","description":"","logo":"/naghamfm.jpg","streamUrl":"https://ahmsamir.radioca.st/stream","yourmuzeId":"0","state":"0"},
+{"number":"26","name":"نغم FM 105.6","description":"","logo":"/naghamfm.jpg","streamUrl":"https://ahmsamir.radioca.st/stream","yourmuzeId":"0","state":"1"},
 {"number":"27","name":"ميجا FM 92.7","description":"","logo":"/megafm.jpg","streamUrl":"https://audiostreaming.twesto.com/megafm214","yourmuzeId":"0","state":"1"},
 {"number":"29","name":"ميكس FM","description":"","logo":"/mixfm.png","streamUrl":"http://s2.voscast.com:11376/live","yourmuzeId":"0","state":"1"},
 {"number":"30","name":"راديو 90.90","description":"","logo":"/radio9090.jpg","streamUrl":"https://9090streaming.mobtada.com/9090FMEGYPT","yourmuzeId":"0","state":"1"},
@@ -58,7 +58,7 @@
 {"number":"56","name":"راديو 6060 إف إم live","description":"","logo":"/راديو 6060.jpg","streamUrl":"https://streamingv2.shoutcast.com/6060fm","yourmuzeId":"0","state":"1"}, 
 {"number":"57","name":"M3ak3latool Radio-راديو معاك على طول","description":"","logo":"/M3ak3latool Radio.jpg","streamUrl":"http://www.radioma3ak.com:8000/;stream.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"58","name":"RADIO TRAM","description":"","logo":"/RADIO TRAM.jpg","streamUrl":"https://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"}, 
-{"number":"59","name":"إذاعة شباب مصر","description":"","logo":"/RADIO TRAM.jpg","streamUrl":"https://www.onlinehorizons.net/livestreaming2/LiveRadio/webstream/1596911164.php","yourmuzeId":"0","state":"1"}, 
+{"number":"59","name":"إذاعة شباب مصر","description":"","logo":"/chababmasr.png","streamUrl":"https://www.onlinehorizons.net/livestreaming2/LiveRadio/webstream/1596911164.php","yourmuzeId":"0","state":"1"}, 
 
  
  
